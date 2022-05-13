@@ -1,0 +1,13 @@
+branco: #FFF;
+azul-claro: #A3C9A8;
+azul-medio: #69A297;
+azul-escuro: #50808E;
+cinza-medio: #DDD8C4;
+
+    
+fonte-link: #0084FF;
+fonte-cinza: #666;
+borda-cabecalho-mobile: #103D4A;
+bg-rodape: #333;
+bg-chamada-mobile: #00161C;
+
